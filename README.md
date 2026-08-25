@@ -5,12 +5,12 @@ A full-stack company website and content-management dashboard built with PHP and
 
 ### 🏠 Homepage
 
-![Ayveez Systems Homepage](screenshots/homepage.png)
+![Ayveez Systems Homepage](ayveez-systems/screenshots/homepage.png)
 
 ### 🛠️ Services
 
-![Ayveez Systems Services](screenshots/services.png)
+![Ayveez Systems Services](ayveez-systems/screenshots/services.png)
 
 ### 💼 Careers
 
-![Ayveez Systems Careers](screenshots/careers.png)
+![Ayveez Systems Careers](ayveez-systems/screenshots/careers.png)
