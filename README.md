@@ -5,7 +5,7 @@ A full-stack company website and content-management dashboard built with PHP and
 
 ### 🏠 Homepage
 
-![Ayveez Systems Homepage](ayveez-systems/screenshots/homepage.png)
+![Ayveez Systems Homepage](screenshots/homepage.png)
 
 ### 🛠️ Services
 
